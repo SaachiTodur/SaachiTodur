@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaachiTodur
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning how to could
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me doctorbunny434@gmail.com
 
